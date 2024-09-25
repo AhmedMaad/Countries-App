@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flags App</string>
+    <string name="egypt">Egypt</string>
+    <string name="russia">Russia</string>
+    <string name="palestine">Palestine</string>
+    <string name="madagascar">Madagascar</string>
+</resources>
